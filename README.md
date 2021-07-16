@@ -1,8 +1,7 @@
 # GraphQL server using JSON WEB Token
 
-## Install
+## Install local repo
 ```bash
-$ git clone https://github.com/oliviermantel/practice-x3-graphql-server.git
 $ cd practice-x3-graphql-server
 $ npm i 
 ```
